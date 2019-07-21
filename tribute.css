@@ -1,0 +1,58 @@
+body {
+    background-color: #90EE90;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #title {
+    font-size: 40px;
+    font-family: monospace, sans serif; 
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    box-shadow:  0 4px 12px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  .border {
+    border-color: white;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  
+  #img-caption {
+    font-size: 16px;
+    font-family: helvetica
+      
+  }
+  #tribute-info {
+    font-size: 30px;
+    font-family: monospace, sans serif;
+  }
+   .summary {
+    max-width: 50%;
+    font-size: 16px;
+    font-family: helvetica, sans serif;
+    background-color: #D2B48C;
+    border-color: white;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+     
+  } 
+  
+  .link-text {
+      font-size: 15px;
+      font-family: helvetica, sans serif;
+  }
+  
+  
+  .copyright {
+    font-family: helvetica, sans serif;
+    font-size: 12px;
+  }
